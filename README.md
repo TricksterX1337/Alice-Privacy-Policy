@@ -22,7 +22,7 @@ As soon as you kick Alice ™ from your server we delete or disable the chat cha
 
 # 4. Privacy Policy Doesn't Answer My questions What should  I do?
 
-• Simply Join Our Support Server [https://discord.gg/fK3qAvGUPy](https://discord.gg/te2kbsqN3e) On Discord
+• Simply Join Our Support Server https://discord.gg/te2kbsqN3e On Discord
 • Contact Me On Discord Error.401 or m_zain
 
 # 7. Server is down what should i do?
