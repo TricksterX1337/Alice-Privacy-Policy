@@ -14,11 +14,11 @@ We don't store any type of data other than Guild ids and Channel IDs only for ch
 
 As soon as you kick Alice ™ from your server we delete or disable the chat channel the channel id and the guild id would be removed. (We don't store any data for more than 30 days in case you want to ensure that your data has been removed please join our support server)
 
-•We respect the privacy of your personal information you can trust us, we won't let out any of your information.
+• We respect the privacy of your personal information you can trust us, we won't let out any of your information.
 
-•Alice ™ is DDoS protected and no other/outsider can get access to the code, you can trust us we will try our best to keep your information safe and secure.
+• Alice ™ is DDoS protected and no other/outsider can get access to the code, you can trust us we will try our best to keep your information safe and secure.
 
-•This policy may be modified in the future as needed. We will make these changes publicly.
+• This policy may be modified in the future as needed. We will make these changes publicly.
 
 # 4. Privacy Policy Doesn't Answer My questions What should  I do?
 
@@ -32,4 +32,4 @@ As soon as you kick Alice ™ from your server we delete or disable the chat cha
 
 # Thank you for adding us to your server and for trusting us with your information.
 
-Last Changed  Saturday, 24 Jund, 2023
+Last Changed  Wednesday, 28 June, 2023
