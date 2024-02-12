@@ -27,7 +27,7 @@ As soon as you kick Alice ™ from your server we delete or disable the chat cha
 
 # 7. Server is down what should i do?
 
-• You Can Directly Mail me For any Help You want, Emal - TricksterX1337@gmail.com.
+• You Can Directly Mail me For any Help You want, Emal - privacy@alicebot.xyz .
 • You Can Also Mail For Data Deletion and AnyThing You want.
 
 # Thank you for adding us to your server and for trusting us with your information.
